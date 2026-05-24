@@ -1,0 +1,11 @@
+*.class
+
+*.db
+
+.vscode/
+
+out/
+
+bin/
+
+.idea/
