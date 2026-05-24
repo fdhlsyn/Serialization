@@ -33,4 +33,5 @@ Compile:
 ```bash
 javac -cp "PengembanganDB/lib/*" PengembanganDB/*.java
 
+```run
 java -cp ".;PengembanganDB/lib/*" PengembanganDB.MainApp
