@@ -32,6 +32,13 @@ Compile:
 
 ```bash
 javac -cp "PengembanganDB/lib/*" PengembanganDB/*.java
+```
 
-```run
+Run:
+
+```bash
 java -cp ".;PengembanganDB/lib/*" PengembanganDB.MainApp
+```
+
+## Hasil
+Program berhasil menjalankan operasi CRUD.
